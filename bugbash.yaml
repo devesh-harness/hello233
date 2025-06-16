@@ -2,7 +2,7 @@ apiVersion: harness.io/v1
 kind: Component
 type: service
 identifier: wqdwqwd
-name: wqdwqwddwedweqdqwdqwd
+name: wqdwqwddwedweqdqewdwe
 owner: group:account/AAAFF
 spec:
   lifecycle: production
