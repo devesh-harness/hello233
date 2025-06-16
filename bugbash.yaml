@@ -1,0 +1,13 @@
+apiVersion: harness.io/v1
+kind: Component
+type: service
+identifier: wqdwqwd
+name: wqdwqwd
+owner: group:account/AAAFF
+spec:
+  lifecycle: production
+  ownedBy:
+  - group:account/AAAFF
+metadata:
+  tags:
+  - spotify
